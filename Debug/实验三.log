@@ -1,0 +1,13 @@
+﻿  实验三.cpp
+C:\Users\ferster\Source\Repos\实验三\实验三.cpp(123,19): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+C:\Users\ferster\Source\Repos\实验三\实验三.cpp(123,19): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+C:\Users\ferster\Source\Repos\实验三\实验三.cpp(123,19): message : 缺失的可变参数 1 为格式字符串“%s”所需
+C:\Users\ferster\Source\Repos\实验三\实验三.cpp(73,21): warning C4101: “fcode”: 未引用的局部变量
+C:\Users\ferster\Source\Repos\实验三\实验三.cpp(192,13): warning C4101: “ltime”: 未引用的局部变量
+C:\Users\ferster\Source\Repos\实验三\实验三.cpp(198,9): warning C4101: “local_tv_sec”: 未引用的局部变量
+C:\Users\ferster\Source\Repos\实验三\实验三.cpp(193,7): warning C4101: “timestr”: 未引用的局部变量
+C:\Users\ferster\Source\Repos\实验三\实验三.cpp(195,14): warning C4101: “uh”: 未引用的局部变量
+C:\Users\ferster\Source\Repos\实验三\实验三.cpp(197,10): warning C4101: “sport”: 未引用的局部变量
+C:\Users\ferster\Source\Repos\实验三\实验三.cpp(196,8): warning C4101: “ip_len”: 未引用的局部变量
+C:\Users\ferster\Source\Repos\实验三\实验三.cpp(197,17): warning C4101: “dport”: 未引用的局部变量
+  实验三.vcxproj -> C:\Users\ferster\Source\Repos\实验三\Debug\实验三.exe
